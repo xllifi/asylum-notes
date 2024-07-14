@@ -3,7 +3,7 @@ A font originally intended as a parody of street writings (namely russian "пр�
 
 ## Usage
 ⚠️ This resourcepack doesn't replace anything!
-You'll have to specify a font. This can be done with formatting, namely [Raw JSON (Vanilla)](https://minecraft.wiki/w/Raw_JSON_text_format#Java_Edition) `{"text": "Text", "font": "asylumnotes"}` or [MiniMessage (Recommended)](https://docs.advntr.dev/minimessage/format.html#font) `<font:asylumnotes>Text</font>`.
+You'll have to specify a font. This is done with formatting, namely [Raw JSON (Vanilla)](https://minecraft.wiki/w/Raw_JSON_text_format#Java_Edition) `{"text": "Text", "font": "asylumnotes"}` or [MiniMessage (Recommended)](https://docs.advntr.dev/minimessage/format.html#font) `<font:asylumnotes>Text</font>`.
 
 ## Contributing
 If you want to improve this font in any way, please open an [issue](https://github.com/xllifi/asylum-notes/issues) or a [pull request](https://github.com/xllifi/asylum-notes/compare) on GitHub.
