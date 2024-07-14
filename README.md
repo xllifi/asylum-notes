@@ -14,5 +14,5 @@ You are free to use this font in any project as long as you credit me and/or pro
 This project uses [CC-BY 4.0](https://www.tldrlegal.com/license/creative-commons-attribution-4-0-international-cc-by-4).</br>
 [![CC-BY 4.0](https://i.imgur.com/XBu1mBH.png)](https://www.tldrlegal.com/license/creative-commons-attribution-4-0-international-cc-by-4)
 
-### Supporting me
+## Supporting me
 If you like my work and want to support me, please do so on [Boosty](https://boosty.to/xllifi)
